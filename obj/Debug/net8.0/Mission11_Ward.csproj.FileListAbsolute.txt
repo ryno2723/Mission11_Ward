@@ -125,3 +125,4 @@
 /Users/ryanward/RiderProjects/Mission11_Ward/Mission11_Ward/obj/Debug/net8.0/Mission11_Ward.pdb
 /Users/ryanward/RiderProjects/Mission11_Ward/Mission11_Ward/obj/Debug/net8.0/Mission11_Ward.genruntimeconfig.cache
 /Users/ryanward/RiderProjects/Mission11_Ward/Mission11_Ward/obj/Debug/net8.0/ref/Mission11_Ward.dll
+/Users/ryanward/RiderProjects/Mission11_Ward/Mission11_Ward/obj/Debug/net8.0/Mission11_Ward.sourcelink.json
